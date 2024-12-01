@@ -1,7 +1,6 @@
 #![allow(dead_code)]
 #![allow(non_snake_case)]
 
-
 //Problem 1
 fn count_e(string: String) -> u32 {
     let mut counter: u32 = 0;
